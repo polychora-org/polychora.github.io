@@ -1,0 +1,11 @@
+"uniform sampler2D tDiffuse;",
+"uniform sampler2D buffer;",
+"uniform vec2 pixel;",
+"varying vec2 vUv;",
+"void main( void )",
+"{",
+"vec2 above = texture2D( buffer, vUv + vec2( 0.0, -pixel.y ) ).rg;",
+"float x = above.g - texture2D( buffer, vUv + vec2( pixel.x, 0.0 ) ).g;",
+"float y = above.r - texture2D( buffer, vUv + vec2( 0.0, pixel.y ) ).r;",
+"gl_FragColor = texture2D( tDiffuse, vUv + vec2( x, y ) );",
+"}"
