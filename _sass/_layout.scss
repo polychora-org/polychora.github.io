@@ -1,6 +1,10 @@
 /**
  * Site header
  */
+body {
+  margin: 0;
+  padding: 0;
+}
  .wrapper .container {
     max-width: 80rem;
 }
@@ -10,7 +14,6 @@
 }
 
 .site-title img {
-  max-height: 150px;
 }
 
 .navbar {
