@@ -7,8 +7,7 @@ title: About
 
 Gwendolyn Brooks
 
-<blockquote style="white-space: pre-wrap;">
-I hold my honey and I store my bread
+<blockquote style="white-space: pre-wrap;">I hold my honey and I store my bread
 In little jars and cabinets of my will.
 I label clearly, and each latch and lid
 I bid, Be firm till I return from hell.

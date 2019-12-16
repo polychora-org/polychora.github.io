@@ -1,8 +1,8 @@
 ---
 title: Dear, I made a casserole
 date: 2011-05-03
-tags:
-  - music
+preview: /assets/img/casserole.jpg
+tags: [audio]
 ---
 <audio src="/works/casserole/casserole.mp3" preload="metadata" controls></audio>
 

@@ -1,9 +1,11 @@
 ---
 title: The Complex
 date: 2014-05-07
+preview: /assets/img/the_complex.jpg
+tags: [video]
 ---
+<iframe width="640" height="360" src="https://player.vimeo.com/video/94457924" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-    <iframe width="640" height="360" src="https://player.vimeo.com/video/94457924" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <blockquote>
   <p>Those African persons in ‘Middle Passage’ were literally suspended in the ‘oceanic,’ if we think of the latter in its Freudian orientation as an analogy for undifferentiated identity: […] these captive persons, without names that their captors would recognize, were in movement across the Atlantic, but they were also nowhere at all.</p>
 
