@@ -15,8 +15,6 @@
 # in the templates via {{ site.myvariable }}.
 title: Polychora
 email: inquire@polychora.org
-twitter_username: cora_jr
-github_username: corajr
 
 # Build settings
 markdown: kramdown
@@ -41,7 +39,7 @@ include:
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate
-  - jekyll-redirect
+  - jekyll-redirect-from
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
