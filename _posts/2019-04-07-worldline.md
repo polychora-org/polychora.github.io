@@ -8,5 +8,5 @@ tags: [software, pure-data]
 
 A prototype using Pure Data and GEM to overlap frames from 360 video.
 
-Source at https://github.com/polychora-org/worldline-pd
+Source on Github at [polychora-org/worldline-pd](https://github.com/polychora-org/worldline-pd)
 
